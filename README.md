@@ -22,9 +22,10 @@
 2. Open the new directory.
 3. Ensure [node.js](https://nodejs.org/en/) is installed in your terminal.
 4. Type "npm install" in the terminal.
-5. Type "npm run build" to output an index.html file in the "dist" directory.
-6. Open the distribution build by opening index.html in a web browser.
-7. You can also open a development server by typing "npm run start".
+5. API INSTALLATION INSTRUCTIONS GOES HERE
+6. Type "npm run build" to output an index.html file in the "dist" directory.
+7. Open the distribution build by opening index.html in a web browser.
+8. You can also open a development server by typing "npm run start".
 
 See it hosted directly on [GitHub Pages](https://benjaminw1030.github.io/template/).
 
