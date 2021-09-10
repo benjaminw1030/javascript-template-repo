@@ -22,9 +22,13 @@
 2. Open the new directory.
 3. Ensure [node.js](https://nodejs.org/en/) is installed in your terminal.
 4. Type "npm install" in the terminal.
-5. API INSTALLATION INSTRUCTIONS GOES HERE
-6. Type "npm run build" to output an index.html file in the "dist" directory.
-7. Open the distribution build by opening index.html in a web browser.
+
+OPTIONAL API INSTRUCTIONS
+5. Visit the [Exchange Rate API sign up page](https://app.exchangerate-api.com/sign-up) and follow the instructions to obtain a free API key.
+6. Create a file named ".env" in the top-level directory of the project.
+7. Type "API_KEY=*"provided API key here"* in this file and save it.
+
+6. Type "npm run start" to output an index.html file in the "dist" directory and bring up the distribution build in a Chrome web browser.
 8. You can also open a development server by typing "npm run start".
 
 See it hosted directly on [GitHub Pages](https://benjaminw1030.github.io/template/).
